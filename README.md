@@ -1,2 +1,3 @@
 # aulas_poo
-git pull
+git pull - confirmado
+git push VM to Remote
